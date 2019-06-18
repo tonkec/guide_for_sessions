@@ -5,6 +5,7 @@
  - Pick a slot that is available
 
 ## When can you book a session?
+ - If you can not find a time that suits you, feel free to contact me and we will figure something out
  - All the slots on Calendly are adjusted to my schedule
  - If the slot is free, it means I am available in that time
  - I update Calendly regularly
