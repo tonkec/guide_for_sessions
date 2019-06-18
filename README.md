@@ -3,6 +3,8 @@
 ## Booking a session
  - Visit [Calendly](https://calendly.com/antonija1023)
  - Pick a slot that is available
+ - Please do not be late for our session
+ - Feel free to initiate the call
 
 ## When can you book a session?
  - If you can not find a time that suits you, feel free to contact me and we will figure something out
@@ -30,6 +32,10 @@
 ## Cancelling a session 💔
  - if you need to cancel, please do it at least 24 hours before the session
  - Please do not cancel in the last minute (a few hours before the session)
+
+## Requirements
+  - [Download desktop slack app](https://slack.com/intl/en-hr/downloads)
+    - Browser slack app can not share screen
 
 ## Get the most out of CI support
  - Contact me if you have blockers (Slack, mail)
