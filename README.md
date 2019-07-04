@@ -52,6 +52,3 @@
   - Learning alone is the hardest way to learn
   - Ask me anything about coding or career
   - Feel free to update me on your progress regularly. I want to know how are you getting on!
-  - I am curious about the grade you got on the projects
-    - I am happy and proud when you got high score! 🕶️
-    - Feel free to share assessment results with me
